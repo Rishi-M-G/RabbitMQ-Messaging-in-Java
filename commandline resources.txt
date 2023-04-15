@@ -1,0 +1,52 @@
+Paths
+
+Producer
+C:\Users\Admin\eclipse-workspace\as3-producer\src\main\java\coen6371\as3\publisher
+
+Consumer
+C:\Users\Admin\eclipse-workspace\as3-consumer\src\main\java\coen6371\as3\consumer
+
+Compile codes
+
+Consumer
+javac -cp C:\Users\Admin\.m2\repository\com\rabbitmq\amqp-client\5.15.0\amqp-client-5.15.0.jar recv.java
+
+Producer
+javac -cp C:\Users\Admin\.m2\repository\com\rabbitmq\amqp-client\5.15.0\amqp-client-5.15.0.jar send.java
+
+
+dependencies
+
+C:\Users\Admin\.m2\repository\com\rabbitmq\amqp-client\5.15.0\amqp-client-5.15.0.jar
+
+C:\Users\Admin\.m2\repository\org\slf4j\jcl-over-slf4j\2.0.7\jcl-over-slf4j-2.0.7.jar
+
+C:\Users\Admin\.m2\repository\org\apache\logging\log4j\log4j-api\2.20.0\log4j-api-2.20.0.jar
+
+C:\Users\Admin\.m2\repository\org\apache\logging\log4j\log4j-core\2.20.0\log4j-core-2.20.0.jar
+
+C:\Users\Admin\.m2\repository\org\apache\logging\log4j\log4j-slf4j-impl\2.20.0\log4j-slf4j-impl-2.20.0.jar
+
+C:\Users\Admin\.m2\repository\org\slf4j\slf4j-api\2.0.7\slf4j-api-2.0.7.jar
+
+C:\Users\Admin\.m2\repository\org\slf4j\slf4j-simple\2.0.7\slf4j-simple-2.0.7.jar
+
+C:\Users\Admin\.m2\repository\org\mongodb\bson\4.2.0\bson-4.2.0.jar
+
+C:\Users\Admin\.m2\repository\org\mongodb\mongodb-driver-core\4.2.0\mongodb-driver-core-4.2.0.jar
+
+C:\Users\Admin\.m2\repository\org\mongodb\mongo-java-driver\3.12.12\mongo-java-driver-3.12.12.jar
+
+C:\Users\Admin\.m2\repository\org\mongodb\mongodb-driver\3.12.9\mongodb-driver-3.12.9.jar
+
+C:\Users\Admin\.m2\repository\org\mongodb\mongodb-driver-sync\4.9.1\mongodb-driver-sync-4.9.1.jar
+
+
+
+
+combined jar file path
+
+java -cp C:\Users\Admin\.m2\repository\com\rabbitmq\amqp-client\5.15.0\amqp-client-5.15.0.jar;C:\Users\Admin\.m2\repository\org\slf4j\jcl-over-slf4j\2.0.7\jcl-over-slf4j-2.0.7.jar;C:\Users\Admin\.m2\repository\org\apache\logging\log4j\log4j-api\2.20.0\log4j-api-2.20.0.jar;C:\Users\Admin\.m2\repository\org\apache\logging\log4j\log4j-core\2.20.0\log4j-core-2.20.0.jar;C:\Users\Admin\.m2\repository\org\apache\logging\log4j\log4j-slf4j-impl\2.20.0\log4j-slf4j-impl-2.20.0.jar;C:\Users\Admin\.m2\repository\org\slf4j\slf4j-api\2.0.7\slf4j-api-2.0.7.jar;C:\Users\Admin\.m2\repository\org\slf4j\slf4j-simple\2.0.7\slf4j-simple-2.0.7.jar;C:\Users\Admin\.m2\repository\org\mongodb\bson\4.2.0\bson-4.2.0.jar;C:\Users\Admin\.m2\repository\org\mongodb\mongodb-driver-core\4.2.0\mongodb-driver-core-4.2.0.jar;C:\Users\Admin\.m2\repository\org\mongodb\mongo-java-driver\3.12.12\mongo-java-driver-3.12.12.jar;C:\Users\Admin\.m2\repository\org\mongodb\mongodb-driver\3.12.9\mongodb-driver-3.12.9.jar;C:\Users\Admin\.m2\repository\org\mongodb\mongodb-driver-sync\4.9.1\mongodb-driver-sync-4.9.1.jar
+
+
+javac -cp C:\Users\Admin\.m2\repository\com\rabbitmq\amqp-client\5.15.0\amqp-client-5.15.0.jar;C:\Users\Admin\.m2\repository\org\slf4j\jcl-over-slf4j\2.0.7\jcl-over-slf4j-2.0.7.jar;C:\Users\Admin\.m2\repository\org\apache\logging\log4j\log4j-api\2.20.0\log4j-api-2.20.0.jar;C:\Users\Admin\.m2\repository\org\apache\logging\log4j\log4j-core\2.20.0\log4j-core-2.20.0.jar;C:\Users\Admin\.m2\repository\org\apache\logging\log4j\log4j-slf4j-impl\2.20.0\log4j-slf4j-impl-2.20.0.jar;C:\Users\Admin\.m2\repository\org\slf4j\slf4j-api\2.0.7\slf4j-api-2.0.7.jar;C:\Users\Admin\.m2\repository\org\slf4j\slf4j-simple\2.0.7\slf4j-simple-2.0.7.jar;C:\Users\Admin\.m2\repository\org\mongodb\bson\4.2.0\bson-4.2.0.jar;C:\Users\Admin\.m2\repository\org\mongodb\mongodb-driver-core\4.2.0\mongodb-driver-core-4.2.0.jar;C:\Users\Admin\.m2\repository\org\mongodb\mongo-java-driver\3.12.12\mongo-java-driver-3.12.12.jar;C:\Users\Admin\.m2\repository\org\mongodb\mongodb-driver\3.12.9\mongodb-driver-3.12.9.jar;C:\Users\Admin\.m2\repository\org\mongodb\mongodb-driver-sync\4.9.1\mongodb-driver-sync-4.9.1.jar recv.java
